@@ -18,7 +18,7 @@ python3 generate_data.py
 # 3. Launch the dashboard
 streamlit run app.py
 ```
-[![Open in Streamlit](https://viz1303-lendiq-dashboard.streamlit.app)]
+[![Open in Streamlit](https://lendiq-dashboard.streamlit.app)]
 
 Use the sidebar to switch pages and filter by date range.
 
